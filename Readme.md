@@ -1,4 +1,4 @@
-This repository demonstrates an issue with how Visual Studio shows the new `csproj` format in the solution explorer. It corresponds to [dotnet/project-system#TODO](https://github.com/dotnet/project-system/issues).
+This repository demonstrates an issue with how Visual Studio shows the new `csproj` format in the solution explorer. It corresponds to [dotnet/project-system#3931](https://github.com/dotnet/project-system/issues/3931).
 
 The issue described in this document was tested against Visual Studio 15.8.2 (which is the latest stable release at the time of writing.)
 
